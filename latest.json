@@ -1,16 +1,16 @@
 {
   "pilot": {
-    "version": "0.4.1",
-    "file": "releases/0.4.1.bin",
-    "sha256": "fdeb99f76c70278cd4c4cfb7d70687fcaaa68fe4ec7f8d0079187776a0403819",
-    "size": 332038,
-    "published": "2026-10-29T05:43:13.896Z"
+    "version": "0.5.0",
+    "file": "releases/0.5.0.bin",
+    "sha256": "e2767ad469aaf99ee2cd5fbb4e47210173c548bac11c332d3a27603ad182de77",
+    "size": 392814,
+    "published": "2026-10-30T11:54:27.631Z"
   },
   "stable": {
-    "version": "0.4.1",
-    "file": "releases/0.4.1.bin",
-    "sha256": "fdeb99f76c70278cd4c4cfb7d70687fcaaa68fe4ec7f8d0079187776a0403819",
-    "size": 332038,
-    "published": "2026-10-29T05:43:13.896Z"
+    "version": "0.5.0",
+    "file": "releases/0.5.0.bin",
+    "sha256": "e2767ad469aaf99ee2cd5fbb4e47210173c548bac11c332d3a27603ad182de77",
+    "size": 392814,
+    "published": "2026-10-30T11:54:27.631Z"
   }
 }
