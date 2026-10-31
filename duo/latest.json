@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "0.2.5",
-    "file": "releases/0.2.5.bin",
-    "sha256": "e18d0a879214030ddd69699346cc306f3a502e5a3a99adba19a3b598b50cd1c8",
-    "size": 189815,
-    "published": "2026-10-31T10:39:58.744Z"
+    "version": "0.2.6",
+    "file": "releases/0.2.6.bin",
+    "sha256": "c16a52e0f059ef891158c144250aa7bb20302fd32cb9a1cf2d6e77a9a8485884",
+    "size": 201155,
+    "published": "2026-10-31T11:19:30.191Z"
   }
 }
